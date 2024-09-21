@@ -1,0 +1,11 @@
+### local endpoints
+GET http://localhost:3000/users/
+
+### get user by id (Local)
+GET http://localhost:3000/users/66eb86f9e6d95f902929b71f
+
+### Render endpoints
+GET https://cse341-projects-ebdu.onrender.com/users
+
+#### get user by id(Render)
+GET https://cse341-projects-ebdu.onrender.com/users/66eb8682e6d95f902929b71e
