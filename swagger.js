@@ -7,7 +7,7 @@ const doc = {
         description: 'API Documentation for the project',
     },
     host: 'localhost:3000',
-    schemes: ['http', 'https'],
+    schemes: ['http'],
 }
 const outputFile = "./swagger.json"
 const routes = ["./routes/index"]
