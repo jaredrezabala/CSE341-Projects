@@ -17,6 +17,6 @@ mongodb.initDB((err) => {
     }
     else{
         app.listen(process.env.PORT, ()=>{
-            console.log(`Server and Database running on http://localhost:3000`)})
+            console.log(`Server and Database running on localhost:3000`)})
     }
 })
